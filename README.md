@@ -2,6 +2,8 @@
 
 A responsive, single-page portfolio built with plain HTML, CSS, and JavaScript. It has no framework, dependencies, or build step.
 
+Built for the Global Hack Week: Hacktoberfest, CHALLENGE: Use GitHub Copilot to Build a Simple Application
+
 ## Run locally
 
 Open `index.html` in a web browser. To serve the files locally instead, run a static web server from this folder, then open the local address it prints. No installation or build command is required.
@@ -21,3 +23,12 @@ The page loads DM Sans and Manrope from Google Fonts when an internet connection
 - Direct email link for contacting Alex.
 
 The contact form is front-end only: it does not send or store submitted messages. Replace the placeholder project details and email address with your own before publishing.
+
+---
+
+<div align="center">
+
+_"To &lt;div&gt; or not to &lt;div&gt;, that is the question."_
+— [Brage1025](https://github.com/Brage1025)
+
+</div>
